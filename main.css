@@ -1,0 +1,182 @@
+/*@font-face {
+ font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-Thin.otf') format('otf');
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-ThinItalic.otf') format('otf');
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-Light.otf') format('otf');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-LightItalic.otf') format('otf');
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-Regular.otf') format('otf');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-RegularItalic.otf') format('otf');
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/Colfax-Medium.otf') format('otf');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-MediumItalic.otf') format('otf');
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-Bold.otf') format('otf');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-BoldItalic.otf') format('otf');
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-Black.otf') format('otf');
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url('colfax-cufonfonts/colfax-BlackItalic.otf') format('otf');
+  font-style: italic;
+  font-weight: 900;
+}
+
+/*
+* {
+  display: flex;
+  flex-direction: row;
+  margin-left:0;
+  margin-right:0;}
+
+.system-fonts {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande'
+}
+
+  a {  
+    text-decoration: none;
+    color:blue;
+  }
+
+  a.hover{
+    color:white;
+  }
+
+  a.visited{
+    color:orange;
+  }
+
+  h1 {
+    font-family: monospace;
+    color: red;
+    text-align: center;
+  }
+
+  h3 {
+    color:green;
+    text-align: center;
+  }
+  
+  p {
+    color: black;
+    font-family src:"../colfax-Medium.otf";
+    font-size: 16px;
+  }
+
+  .finale{
+    color:#FA7268;
+  }
+
+  .box-1{
+    background-color:#fdbab5;
+    color: #788F98;
+    border-left:5px #FA7268 solid;
+    border-right:5px #FA7268 solid;
+    padding:10px;
+    margin-top:20px;
+    margin-bottom:20px;
+  }
+
+  .box-2{
+    background-color:#788F98;
+  }
+
+  #myProgress {
+    width: 100%;
+    background-color: grey;
+  }
+  
+  #myBar {
+    width: 1%;
+    height: 30px;
+    background-color: #FA7268;
+  }
+   /* font-weight: 600; */
+
+  /*border-top: 5px;
+    border-color: #FA7268;
+    border-style: solid;*/
+
+      /*Footer
+  footer {
+    display: fixed bottom;
+    font-weight:400;
+    text-transform: uppercase;
+    background-color: #788F98;
+    border-top:5px;
+    border-color:green;
+    color:#FA7268;
+    padding-bottom: 20px;
+    min-height: 90px;
+  }*/
+
+   /*#showcase {
+    background
+  }*/
+
+    /*.box-2{
+    width: 80%;
+    margin:auto;
+    border: 5px;
+    border-color: green;
+  }*/

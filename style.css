@@ -1,0 +1,145 @@
+body {
+    font-family: 'Helvetica', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height:1.6em;
+    color: #788F98;
+    padding:0;
+    margin:0;
+    background-color: #E7DDC3;
+  }
+
+  .container1 {
+    width: 80%;
+    margin:auto;
+    overflow: hidden;
+  }
+
+  .container2 {
+    padding-bottom: 20px;
+    margin-top: 20px;
+    overflow: hidden;
+  }
+
+  .container3 {
+    width: 60%;
+    margin:auto;
+    /*float: left;*/
+    overflow: hidden;
+  }
+
+  #newsletter {
+    background-color: #788F98;
+    color:#C6CBCC;
+    Font-family: Helvetica;
+    Font-weight: 200;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+
+  .ul {
+    margin:0;
+    padding:0;  
+  }
+
+  p {
+    display: flex;
+    padding:0;
+    margin:0;
+  }
+
+  .codenation a{
+    color:#788F98;
+  }
+
+  .codenation a:hover {
+    background-color:#fdbab5;
+    color: #FA7268;
+  }
+
+  header {
+    font-family: 'Charmonman', cursive;
+    background-color:#C6CBCC;
+    color:#FA7268;
+    padding-top: 20px;
+    min-height: 70px;
+    border-bottom:5px;
+    border-color: #FA7268;
+    border-bottom-style: solid;
+  }
+
+  header a {
+    font-family: 'Gill Sans';
+    text-align: center;
+    padding: 14px 16px;
+    font-size:15px;
+    font-weight:400;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:#788F98;
+  }
+  
+  .topnav li {
+    display: inline;
+    padding: 0, 0, 0, 20;
+    text-decoration: none;
+  }
+
+  .topnav ul {
+    float: left;
+    color: #f2f2f2;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color:#fdbab5;
+    color: #FA7268;
+  }
+  
+  .topnav a.active {
+    background-color: #E7DDC3;
+    color: #FA7268;
+  }
+
+  footer {
+    border-top: 5px solid #FA7268;
+   position: bottom;
+   left: 0;
+   bottom: 0;
+   height: 200px;
+   width: 100%;
+   background-color:#788F98;
+   color: white;
+   text-align: center;
+  }
+
+  footer a{
+    font-family: 'Gill Sans';
+    text-align: center;
+    font-size:15px;
+    font-weight:400;
+    text-decoration: none;
+    color:#C6CBCC;
+  }
+  .box2{
+    width: 80%;
+    margin:auto;
+  }
+
+  .button1 {
+    font-family: 'Helvetica', cursive;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 10px  20px;
+    font-size: 15px;
+    color: #788F98;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .button1:hover {
+    background-color: #fa7268;
+    border: none;
+  }
+      
